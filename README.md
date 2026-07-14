@@ -30,6 +30,13 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+### BootcampStats.ipynb
+
+This is a notebook that gives an overview of job prospects and salaries for graduates of a Bootcamp. It gives insight into the time it took before getting a developer job, the amount of diversity in the Bootcamp, and the salaries the Bootcamp graduates are earning in their developer jobs.
+
+### HowToBreakIntoTheField.ipynb
+
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
