@@ -36,6 +36,15 @@ This is a notebook that gives an overview of job prospects and salaries for grad
 
 ### HowToBreakIntoTheField.ipynb
 
+It analyses survey responses on methods to start a developer career. This document shows how many established developers would advise one method or another in those listed in the survey. It also highlights the responses of developers with a higher salary or higher job satisfaction. Finally, it plots how much each method is recommended on average by developers who hold at least a Master's degree and those who do not have one.
+
+### Salary.ipynb
+
+In this notebook, a linear regression model is trained to predict salary based on the following features: career satisfaction, the number of hours worked every week, job satisfaction, and Stack Overflow satisfaction. It also treats different methods of dealing with null values and which one gives an optimal model.
+
+### Salary_ML.py
+
+This is a final draft of the modeling that takes data collected from the responses of a survey, cleans it, and then finds the best model to predict salaries.
 
 ## Results<a name="results"></a>
 
