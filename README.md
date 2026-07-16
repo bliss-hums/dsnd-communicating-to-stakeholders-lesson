@@ -30,21 +30,13 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
-### BootcampStats.ipynb
+BootcampStats.ipynb: This is a notebook that gives an overview of job prospects and salaries for graduates of a Bootcamp. It gives insight into the time it took before getting a developer job, the amount of diversity in the Bootcamp, and the salaries the Bootcamp graduates are earning in their developer jobs.
 
-This is a notebook that gives an overview of job prospects and salaries for graduates of a Bootcamp. It gives insight into the time it took before getting a developer job, the amount of diversity in the Bootcamp, and the salaries the Bootcamp graduates are earning in their developer jobs.
+HowToBreakIntoTheField.ipynb: It analyses survey responses on methods to start a developer career. This document shows how many established developers would advise one method or another in those listed in the survey. It also highlights the responses of developers with a higher salary or higher job satisfaction. Finally, it plots how much each method is recommended on average by developers who hold at least a Master's degree and those who do not have one.
 
-### HowToBreakIntoTheField.ipynb
+Salary.ipynb: In this notebook, a linear regression model is trained to predict salary based on the following features: career satisfaction, the number of hours worked every week, job satisfaction, and Stack Overflow satisfaction. It also treats different methods of dealing with null values and which one gives an optimal model.
 
-It analyses survey responses on methods to start a developer career. This document shows how many established developers would advise one method or another in those listed in the survey. It also highlights the responses of developers with a higher salary or higher job satisfaction. Finally, it plots how much each method is recommended on average by developers who hold at least a Master's degree and those who do not have one.
-
-### Salary.ipynb
-
-In this notebook, a linear regression model is trained to predict salary based on the following features: career satisfaction, the number of hours worked every week, job satisfaction, and Stack Overflow satisfaction. It also treats different methods of dealing with null values and which one gives an optimal model.
-
-### Salary_ML.py
-
-This is a final draft of the modeling that takes data collected from the responses of a survey, cleans it, and then finds the best model to predict salaries.
+Salary_ML.py: This is a Python script of the modeling that takes data collected from the responses of a survey, cleans it, and then finds the best model to predict salaries.
 
 ## Results<a name="results"></a>
 
